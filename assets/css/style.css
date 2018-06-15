@@ -21,11 +21,11 @@
     left: 25%;
     padding: 10px;
     font-family: 'Nunito Sans', sans-serif;
-    color: white;
+    color: black;
 }
 
 body {
-    background: rgb(143, 135, 128);
+    background: rgb(218, 191, 167);
 }
 
 #lead {
